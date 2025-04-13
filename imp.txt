@@ -1,0 +1,39 @@
+Google spreadsheets Details:
+// 1f33RNOZUcXxq91z0VEWyV3ZwHmupPQK4pYMpTkOVpTk
+https://docs.google.com/spreadsheets/d/1f33RNOZUcXxq91z0VEWyV3ZwHmupPQK4pYMpTkOVpTk/edit?gid=0#gid=0
+
+? Select the Google Cloud Platform project you would like to add Firebase: inventorymanagement-456411 
+(InventoryManagement)
+✔ Adding Firebase resources to Google Cloud Platform project
+
+=== Your Firebase project is ready! ===
+
+Project information:
+   - Project ID: inventorymanagement-456411
+   - Project Name: InventoryManagement
+
+Firebase console is available at
+https://console.firebase.google.com/project/inventorymanagement-456411/overview
+i  Using project inventorymanagement-456411 (InventoryManagement)
+
+=== Functions Setup
+Let's create a new codebase for your functions.
+A directory corresponding to the codebase will be created in your project
+with sample code pre-configured.
+
+See https://firebase.google.com/docs/functions/organize-functions for
+more information on organizing your functions using codebases.
+
+Functions can be deployed with firebase deploy.
+
+? What language would you like to use to write Cloud Functions? (Use arrow keys)
+> JavaScript
+  TypeScript
+  Python
+
+
+  https://sheety.co/
+
+https://script.google.com/macros/s/AKfycbzlrBiH8MdFbkczIhqBABB3S1DIGc9eK2gnIMMhwxEb2fcYIkYx4_W_69NwM22Jvugvjw/exec
+
+AKfycbzlrBiH8MdFbkczIhqBABB3S1DIGc9eK2gnIMMhwxEb2fcYIkYx4_W_69NwM22Jvugvjw
